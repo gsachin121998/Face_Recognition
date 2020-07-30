@@ -13,7 +13,7 @@ pip install face-recognition
 pip install opencv-python
 
 
-all the images store in data file and user images in user_images
+all the capture '.jpg 'images store in data file and user images in user_images
 
 
 run the file :python face.py
