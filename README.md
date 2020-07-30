@@ -7,6 +7,13 @@ The concept behind this face recognition module is used for detecting residentia
 
 
 pip install face-recognition
+
+
+
 pip install opencv-python
+
+
 all the images store in data file and user images in user_images
+
+
 run the file :python face.py
